@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Gus Fenner / Olá! Eu sou o Gustavo Fenner!
+## 👋 Hi there! I'm Gus Fenner | Olá! Eu sou o Gustavo Fenner!
 
 <div align="center">
   <a href="https://github.com/gusfenner">
